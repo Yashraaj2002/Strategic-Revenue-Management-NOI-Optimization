@@ -3,6 +3,15 @@
 ## 📊 Executive Summary
 This project showcases a comprehensive Revenue Management System designed for a US-based Multifamily client with assets across New York, Connecticut, and Massachusetts. By integrating internal Rent Roll data with external market benchmarks (HelloData), I identified a $0.65M annualized revenue leakage (Loss to Lease). The system provides actionable insights for weekly pricing adjustments, renewal strategies, and operational risk mitigation to protect and grow the portfolio's Net Operating Income (NOI).
 
+## Folder Descriptions
+
+📁 Documentation: Contains a comprehensive Data Dictionary explaining real estate KPIs and technical definitions.
+
+📁 SQL_Analysis: Features optimized PostgreSQL scripts used for data cleaning, schema design, and complex revenue queries.
+
+📁 Dashboards: Includes the Power BI Executive Summary (PDF) showcasing interactive visualizations and "What-If" recovery simulations.
+
+
 ## 🏢 Business Context & "The Why"
 In the Multifamily vertical, the primary objective is the consistent growth of NOI to increase asset valuation.
 The Problem: A significant gap existed between current effective rents and market potential, threatening the balance sheet if left unaddressed.
