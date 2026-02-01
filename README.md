@@ -1,4 +1,5 @@
-Strategic Revenue Management & NOI Optimization: US Multifamily Portfolio
+# Strategic Revenue Management & NOI Optimization
+
 📊 Executive Summary
 This project showcases a comprehensive Revenue Management System designed for a US-based Multifamily client with assets across New York, Connecticut, and Massachusetts. By integrating internal Rent Roll data with external market benchmarks (HelloData), I identified a $0.65M annualized revenue leakage (Loss to Lease). The system provides actionable insights for weekly pricing adjustments, renewal strategies, and operational risk mitigation to protect and grow the portfolio's Net Operating Income (NOI).
 
